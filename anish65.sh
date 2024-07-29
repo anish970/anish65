@@ -1,3 +1,5 @@
+git clone https://github.com/anish970/anish65.git
+
 #!/bin/sh
 
 # Download and execute initial setup scripts
